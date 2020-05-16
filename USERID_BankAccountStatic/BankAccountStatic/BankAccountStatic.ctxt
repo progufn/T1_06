@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=BankAccountStatic
+comment0.text=\r\n\ HINT\:\ You\ should\ NOT\ need\ to\ memorise\ much\ to\ complete\r\n\ \ \ \ \ \ \ this\ skeleton.\ \ The\ type\ of\ the\ variables\r\n\ \ \ \ \ \ \ "accountNumber",\ "accountName"\ and\ "balance"\r\n\ \ \ \ \ \ \ (i.e.\ int,\ String\ and\ double\ respectively)\r\n\ \ \ \ \ \ \ provide\ useful\ information.\r\n
+comment1.params=
+comment1.target=int\ getAccountNumber()
+comment1.text=\r\n\ ...\ javadoc\ comment\ (if\ any)\ has\ been\ omitted\ from\ this\ skeleton\ ...\ \r\n
+comment2.params=accNo
+comment2.target=void\ setAccountNumber(int)
+comment2.text=\r\n\ ...\ javadoc\ comment\ (if\ any)\ has\ been\ omitted\ from\ this\ skeleton\ ...\r\n
+comment3.params=
+comment3.target=java.lang.String\ getAccountName()
+comment3.text=\r\n\ ...\ javadoc\ comment\ (if\ any)\ has\ been\ omitted\ from\ this\ skeleton\ ...\r\n
+comment4.params=name
+comment4.target=void\ setAccountName(java.lang.String)
+comment4.text=\r\n\ ...\ javadoc\ comment\ (if\ any)\ has\ been\ omitted\ from\ this\ skeleton\ ...\ \r\n
+comment5.params=
+comment5.target=double\ getBalance()
+comment5.text=\r\n\ ...\ javadoc\ comment\ (if\ any)\ has\ been\ omitted\ from\ this\ skeleton\ ...\ \r\n
+comment6.params=deposit
+comment6.target=void\ deposit(double)
+comment6.text=\r\n\ ...\ javadoc\ comment\ (if\ any)\ has\ been\ omitted\ from\ this\ skeleton\ ...\r\n
+comment7.params=amount
+comment7.target=double\ withdraw(double)
+comment7.text=\r\n\ @param\ \ \ amount\ \ To\ be\ subtracted\ from\ the\ balance\r\n\r\n\ @return\ \ the\ updated\ account\ balance\ or\ -1.0\ if\ the\ withdrawal\ is\ refused\r\n\r\n\ The\ withdrawal\ is\ refused\ when\ the\ withdrawal\ would\r\n\ have\ resulted\ in\ a\ negative\ balance.\r\n\ \r\n\ Note\:\ This\ method\ "withdraw"\ has\ been\ provided\ in\r\n\ \ \ \ \ \ \ its\ entirety.\ You\ do\ NOT\ have\ to\ make\ any\r\n\ \ \ \ \ \ \ changes\ to\ it.\r\n
+numComments=8
